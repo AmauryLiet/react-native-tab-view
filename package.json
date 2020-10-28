@@ -2,9 +2,9 @@
   "name": "react-native-tab-view",
   "version": "2.15.1",
   "description": "Tab view component for React Native",
-  "main": "lib/commonjs/index.js",
-  "react-native": "lib/module/index.js",
-  "module": "lib/module/index.js",
+  "main": "src/index.tsx",
+  "react-native": "src/index.tsx",
+  "module": "src/index.tsx",
   "types": "lib/typescript/src/index.d.ts",
   "files": [
     "src",
